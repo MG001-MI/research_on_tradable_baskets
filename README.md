@@ -1,2 +1,2 @@
-# systematic_trading_research
+# systematic_quantitative_research
 Directory of various sensible basket backtests and walkforwards.
