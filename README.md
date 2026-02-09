@@ -1,2 +1,2 @@
 # systematic_trading_research
-Collection of different basket sensible backtests &amp; walkforward
+Directory of various sensible basket backtests and walkforwards.
