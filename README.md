@@ -1,2 +1,2 @@
 # Sensible_baskets_research
-Directory of various sensible basket backtests and walkforwards.
+Quantitative analysis of a basket of popular US ETFs.
